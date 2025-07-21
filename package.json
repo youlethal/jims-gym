@@ -1,0 +1,21 @@
+{
+  "name": "jims-gym",
+  "version": "1.0.0",
+  "description": "Website for Jims Gym",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build step required'",
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "keywords": [
+    "website",
+    "business",
+    "jims gym"
+  ],
+  "author": "SaaSify",
+  "license": "MIT"
+}
